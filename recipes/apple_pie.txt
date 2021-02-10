@@ -9,5 +9,6 @@ sugar
 cinnamon
 tble cinamon
 eggs
+salt
 
  
